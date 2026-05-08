@@ -69,13 +69,13 @@ codcliente,nombre,apellidos,tipo,fecha,codproducto,codproducto_de_cliente,descri
 697,Irene,Luna,Nuevo,2026-09-06,115,3077,Alta web correcta
 698,Nico,Valle,VIP,2026-09-07,116,3078,Alta web correcta
 699,Elsa,Polo,Nuevo,2026-09-08,117,3079,Alta web correcta
-650,,Ferrer,Nuevo,2026-08-20,124,3051,INVALID: nombre vacio
-651,Natalia,Pardo,VIP,2026-13-01,125,3052,INVALID: fecha imposible
-652,Sergio,Fuentes,Nuevo,2026-08-22,999,3053,INVALID: codproducto no existe
-653,Silvia,Sola,Recurrente,2026-08-23,,3054,INVALID: codproducto vacio
-654,Oscar,Redondo,Nuevo,,100,3055,INVALID: fecha vacia
-655,Raul,Esteban,Nuevo,2026-08-25,101,3001,INVALID: codproducto_de_cliente duplicado en fichero
-656,ABC,Test,VIP,2026-08-26,102,3056,INVALID: codcliente no numerico
-657,Lola,Test,Nuevo,2026-02-30,103,3057,INVALID: fecha inexistente
-658,Ivan,Test,VIP,2026-08-28,104,3058,INVALID: codcliente duplicado con siguiente linea
-658,Ivan,Test2,VIP,2026-08-29,105,3059,INVALID: codcliente repetido
+650,,Ferrer,Nuevo,2026-08-20,124,3051, nombre vacio
+651,Natalia,Pardo,VIP,2026-13-01,125,3052, fecha imposible
+652,Sergio,Fuentes,Nuevo,2026-08-22,999,3053,codproducto no existe
+653,Silvia,Sola,Recurrente,2026-08-23,,3054,codproducto vacio
+654,Oscar,Redondo,Nuevo,,100,3055, fecha vacia
+655,Raul,Esteban,Nuevo,2026-08-25,101,3001,codproducto_de_cliente duplicado en fichero
+656,ABC,Test,VIP,2026-08-26,102,3056,codcliente no numerico
+657,Lola,Test,Nuevo,2026-02-30,103,3057, fecha inexistente
+658,Ivan,Test,VIP,2026-08-28,104,3058, codcliente duplicado con siguiente linea
+658,Ivan,Test2,VIP,2026-08-29,105,3059, codcliente repetido
