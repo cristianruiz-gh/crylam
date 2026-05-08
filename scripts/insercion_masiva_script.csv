@@ -1,0 +1,60 @@
+codcliente,nombre,apellidos,tipo,fecha,codproducto,codproducto_de_cliente,descripcion_atributo
+700,Leire,Agirre,Nuevo,2026-07-01,100,4001,Insercion correcta 01
+701,Iker,Etxeberria,VIP,2026-07-02,101,4002,Insercion correcta 02
+702,Nahia,Garmendia,Recurrente,2026-07-03,102,4003,Insercion correcta 03
+703,Asier,Uribe,Nuevo,2026-07-04,103,4004,Insercion correcta 04
+704,June,Aramburu,VIP,2026-07-05,104,4005,Insercion correcta 05
+705,Unai,Goikoetxea,Recurrente,2026-07-06,105,4006,Insercion correcta 06
+706,Ane,Lertxundi,Nuevo,2026-07-07,106,4007,Insercion correcta 07
+707,Mikel,Zabala,VIP,2026-07-08,107,4008,Insercion correcta 08
+708,Irati,Odriozola,Recurrente,2026-07-09,108,4009,Insercion correcta 09
+709,Gorka,Altuna,Nuevo,2026-07-10,109,4010,Insercion correcta 10
+710,Nerea,Azkarate,VIP,2026-07-11,110,4011,Insercion correcta 11
+711,Aitor,Arana,Recurrente,2026-07-12,111,4012,Insercion correcta 12
+712,Maialen,Muguruza,Nuevo,2026-07-13,112,4013,Insercion correcta 13
+713,Jon,Iriondo,VIP,2026-07-14,113,4014,Insercion correcta 14
+714,Olatz,Salaberria,Recurrente,2026-07-15,114,4015,Insercion correcta 15
+715,Ander,Elorza,Nuevo,2026-07-16,115,4016,Insercion correcta 16
+716,Miren,Lasa,VIP,2026-07-17,116,4017,Insercion correcta 17
+717,Iñigo,Sarrionandia,Recurrente,2026-07-18,117,4018,Insercion correcta 18
+718,Eider,Bengoetxea,Nuevo,2026-07-19,118,4019,Insercion correcta 19
+719,Paula,Atxaga,VIP,2026-07-20,119,4020,Insercion correcta 20
+720,Beñat,Aizpurua,Recurrente,2026-07-21,120,4021,Insercion correcta 21
+721,Naia,Arriola,Nuevo,2026-07-22,121,4022,Insercion correcta 22
+722,Markel,Eguia,VIP,2026-07-23,122,4023,Insercion correcta 23
+723,Ainhoa,Eguren,Recurrente,2026-07-24,123,4024,Insercion correcta 24
+724,Gaizka,Izagirre,Nuevo,2026-07-25,124,4025,Insercion correcta 25
+725,Itsaso,Andonegi,VIP,2026-07-26,125,4026,Insercion correcta 26
+726,Ekain,Aldazabal,Recurrente,2026-07-27,100,4027,Insercion correcta 27
+727,Lourdes,Beristain,Nuevo,2026-07-28,101,4028,Insercion correcta 28
+728,Kepa,Etxaniz,VIP,2026-07-29,102,4029,Insercion correcta 29
+729,Sara,Garate,Recurrente,2026-07-30,103,4030,Insercion correcta 30
+730,Telmo,Erkizia,Nuevo,2026-07-31,104,4031,Insercion correcta 31
+731,Ainhoa,Aguirre,VIP,2026-08-01,105,4032,Insercion correcta 32
+732,Iratxe,Olabarria,Recurrente,2026-08-02,106,4033,Insercion correcta 33
+733,Alba,Santesteban,Nuevo,2026-08-03,107,4034,Insercion correcta 34
+734,Oscar,Larrinaga,VIP,2026-08-04,108,4035,Insercion correcta 35
+735,Claudia,Lejarza,Recurrente,2026-08-05,109,4036,Insercion correcta 36
+736,David,Uriarte,Nuevo,2026-08-06,110,4037,Insercion correcta 37
+737,Elena,Agirrezabala,VIP,2026-08-07,111,4038,Insercion correcta 38
+738,Hugo,Arregi,Recurrente,2026-08-08,112,4039,Insercion correcta 39
+739,Lucia,Urrutia,Nuevo,2026-08-09,113,4040,Insercion correcta 40
+740,Pablo,Ezkurdia,VIP,2026-08-10,114,4041,Insercion correcta 41
+741,Carmen,Jauregi,Recurrente,2026-08-11,115,4042,Insercion correcta 42
+742,Diego,Lizarralde,Nuevo,2026-08-12,116,4043,Insercion correcta 43
+743,Amaia,Arizaga,VIP,2026-08-13,117,4044,Insercion correcta 44
+744,Noa,Goñi,Recurrente,2026-08-14,118,4045,Insercion correcta 45
+745,Martin,Bilbao,Nuevo,2026-08-15,119,4046,Insercion correcta 46
+746,Valeria,Zubeldia,VIP,2026-08-16,120,4047,Insercion correcta 47
+747,Adrian,Etxeandia,Recurrente,2026-08-17,121,4048,Insercion correcta 48
+748,Marina,Arostegui,Nuevo,2026-08-18,122,4049,Insercion correcta 49
+749,Nicolas,Giraldo,VIP,2026-08-19,123,4050,Insercion correcta 50
+750,,Gonzalez,Nuevo,2026-08-20,124,4051,ERROR nombre vacio
+751,Maite,Lopez,VIP,2026-02-30,125,4052,ERROR fecha inexistente
+752,Xabier,Diaz,Recurrente,2026-08-21,999,4053,ERROR codproducto no existe
+753,Andrea,Martin,Nuevo,2026-08-22,,4054,ERROR codproducto vacio
+abc,Pepe,Ruiz,VIP,2026-08-23,100,4055,ERROR codcliente no numerico
+754,Isabel,Sanchez,Recurrente,2026-08-24,101,4040,ERROR codproducto_de_cliente duplicado
+755,Ruben,Navarro,Nuevo,2026-08-25,102,4056,ERROR codcliente duplicado (1)
+755,Ruben,Navarro,Nuevo,2026-08-26,103,4057,ERROR codcliente duplicado (2)
+756,Lara,Ortega,VIP,,104,4058,ERROR fecha vacia
